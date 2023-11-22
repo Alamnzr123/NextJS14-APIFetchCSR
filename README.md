@@ -19,8 +19,10 @@ bun dev
 ## How to Start
 
 ```bash
-Open [http://localhost:3000/home](http://localhost:3000/home) with your browser to see the result.
+/src/pages/home
 ```
+
+Open [http://localhost:3000/home](http://localhost:3000/home) with your browser to see the result.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
