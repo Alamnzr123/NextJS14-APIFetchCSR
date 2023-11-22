@@ -22,7 +22,7 @@ bun dev
 /src/pages/home
 ```
 
-Open [http://localhost:3000/home](http://localhost:3000/home) with your browser to see the result.
+Open [https://next-js-14-api-fetch-csr.vercel.app/home](https://next-js-14-api-fetch-csr.vercel.app/home) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
