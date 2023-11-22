@@ -16,6 +16,7 @@ const Home = () => {
             {console.log(data)}
             {
                 // ? Use the safe navigation operator ( ?. ) to replace explicit, sequential checks for null references.
+                // data.map && data.map or data?.map
                 data?.map((item, index) => (
                     <div style={{ color: 'white' }} key={index} >
                         {`ID ${item.id}`}
